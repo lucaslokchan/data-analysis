@@ -12,7 +12,7 @@ Chapter   | Topic
 8 | [Data Wrangling: Join, Combine, and Reshape](Python%20for%20Data%20Analysis/08_Data_Wrangling_Join_Combine_and_Reshape.ipynb)
 9 | [Plotting and Visualization](Python%20for%20Data%20Analysis/09_Plotting_and_Visualization.ipynb)
 10 | [Data Aggregation and Group Operations](Python%20for%20Data%20Analysis/10_Data_Aggregation_and_Group_Operations.ipynb)
-11 | Time Series
+11 | [Time Series](Python%20for%20Data%20Analysis/11_Time_Series.ipynb)
 12 | Advanced pandas
 13 | Introduction to Modeling Libraries in Python
 14 | Data Analysis Examples
